@@ -5,6 +5,7 @@
 // ["hello", "2", "world", -> ["2", ":-)"]
 // ["1234", "1567", "-2", "computer science"] -> ["-2"]
 // ["Russia", "Denmark", "Kazan"] -> []
+// https://app.diagrams.net/
 
 string[] array1 = new string[5] {"TOMI", "ANN", "MARYA", "JOJIT", "PB"};
 string[] array2 = new string[array1.Length];
